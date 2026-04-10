@@ -9,6 +9,3 @@
 <a href="mailto:smastud0@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<html>
-  <script src='https://www.noupe.com/embed/019d786e067d707eb014336b2298df3512af.js'></script>
-</html>
